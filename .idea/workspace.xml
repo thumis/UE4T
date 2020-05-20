@@ -33,11 +33,17 @@
       <option name="presentableId" value="Default" />
       <updated>1589911342334</updated>
       <workItem from="1589911346539" duration="3472000" />
-      <workItem from="1590000812230" duration="1271000" />
+      <workItem from="1590000812230" duration="1478000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1512" y="256" key="Vcs.Push.Dialog.v2" timestamp="1590002262819">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1512" y="256" key="Vcs.Push.Dialog.v2/0.0.2560.1040/2560.0.1680.1010@0.0.2560.1040" timestamp="1590002262819" />
   </component>
 </project>
