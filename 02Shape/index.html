@@ -1,21 +1,64 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title>Hello, WebVR! • A-Frame</title>
-    <meta name="viewport" content="width=device-width">
-    <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
-    <script src="scripts/main.js" defer></script>
-  </head>
-  <body>
-    <a-scene background="color: #333333">
-      <a-box id="myBox"
-        width="3"
-        height="2"
-        depth="1"
-        color="#BBAA33" 
-        shadow>
-      </a-box>
-    </a-scene>
-  </body>
+    <head>
+        <meta charset="utf-8">
+        <title>Hello, WebVR! • A-Frame</title>
+        <meta name="viewport" content="width=device-width">
+        <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
+        <script src="scripts/main.js" defer></script>
+    </head>
+    <body>
+        <a-scene background="color: #456485">
+
+            <a-box id="house"
+                width="2"
+                height="1.5"
+                depth="2"
+                position="2 2 1"
+                rotation="0"
+                scale="1 1 1"
+                color="#ff44ff"
+                shadow
+            >
+            </a-box>
+            <a-box id="floor"
+                   width="10"
+                   height="0.5"
+                   depth="10"
+                   position="0 1 0"
+                   rotation="0"
+                   scale="1 1 1"
+                   color="#f09e80"
+                   shadow
+            >
+            </a-box>
+
+            <a-octahedron id="leaves1"
+                height="1"
+                position="0 3 0"
+                rotation="45 25 87"
+                scale="0.5 0.5 0.5"
+                color="#00ff19"
+                shadow
+            >
+            </a-octahedron>
+            <a-octahedron id="leaves2"
+                height="1"
+                position="0 3 0.5"
+                rotation="0 154 248"
+                scale="0.5 0.5 0.5"
+                color="#00ff19"
+                shadow
+            >
+            </a-octahedron>
+            <a-cylinder id="treetrunk"
+                color="#604a39"
+                height="3"
+                radius="0.1"
+                position="0 1.5 0.25"
+                repeat="5 1"
+            >
+            </a-cylinder>
+        </a-scene>
+    </body>
 </html>
