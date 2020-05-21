@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dbd89697-4c11-4278-8785-6b5e2ca82dcd" name="Default Changelist" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03Textures/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/03Textures/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04Animation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/04Animation/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +61,7 @@
       <updated>1589911342334</updated>
       <workItem from="1589911346539" duration="3472000" />
       <workItem from="1590000812230" duration="2409000" />
-      <workItem from="1590082730331" duration="779000" />
+      <workItem from="1590082730331" duration="1075000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1590082794464</created>
@@ -84,7 +84,21 @@
       <option name="project" value="LOCAL" />
       <updated>1590083104210</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update">
+      <created>1590083516631</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590083516631</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update">
+      <created>1590083686583</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1590083686583</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,9 +128,10 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1421" y="168" key="SettingsEditor/0.0.2560.1040/2560.0.1680.1010@0.0.2560.1040" timestamp="1590002599269" />
-    <state x="1512" y="256" key="Vcs.Push.Dialog.v2" timestamp="1590002262819">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state x="789" y="191" key="Vcs.Push.Dialog.v2" timestamp="1590083747810">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="789" y="191" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1590083747810" />
     <state x="1512" y="256" key="Vcs.Push.Dialog.v2/0.0.2560.1040/2560.0.1680.1010@0.0.2560.1040" timestamp="1590002262819" />
   </component>
 </project>
