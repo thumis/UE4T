@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dbd89697-4c11-4278-8785-6b5e2ca82dcd" name="Default Changelist" comment="" />
+    <list default="true" id="dbd89697-4c11-4278-8785-6b5e2ca82dcd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03Textures/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/03Textures/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +24,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -33,7 +37,8 @@
       <option name="presentableId" value="Default" />
       <updated>1589911342334</updated>
       <workItem from="1589911346539" duration="3472000" />
-      <workItem from="1590000812230" duration="1478000" />
+      <workItem from="1590000812230" duration="2409000" />
+      <workItem from="1590082730331" duration="51000" />
     </task>
     <servers />
   </component>
@@ -41,6 +46,14 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1998" y="291" key="FileChooserDialogImpl" timestamp="1590002564086">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1998" y="291" key="FileChooserDialogImpl/0.0.2560.1040/2560.0.1680.1010@0.0.2560.1040" timestamp="1590002564086" />
+    <state x="1421" y="168" key="SettingsEditor" timestamp="1590002599269">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1421" y="168" key="SettingsEditor/0.0.2560.1040/2560.0.1680.1010@0.0.2560.1040" timestamp="1590002599269" />
     <state x="1512" y="256" key="Vcs.Push.Dialog.v2" timestamp="1590002262819">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
