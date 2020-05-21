@@ -22,6 +22,7 @@
     <list default="true" id="dbd89697-4c11-4278-8785-6b5e2ca82dcd" name="Default Changelist" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/04Animation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/04Animation/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04Animation/scripts/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/04Animation/scripts/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +62,7 @@
       <updated>1589911342334</updated>
       <workItem from="1589911346539" duration="3472000" />
       <workItem from="1590000812230" duration="2409000" />
-      <workItem from="1590082730331" duration="1691000" />
+      <workItem from="1590082730331" duration="1844000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1590082794464</created>
@@ -147,7 +148,21 @@
       <option name="project" value="LOCAL" />
       <updated>1590084366452</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="update">
+      <created>1590084427625</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1590084427625</updated>
+    </task>
+    <task id="LOCAL-00014" summary="update">
+      <created>1590084437766</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1590084437766</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
