@@ -21,6 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="dbd89697-4c11-4278-8785-6b5e2ca82dcd" name="Default Changelist" comment="SpinnyBoys">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05Interaction/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/05Interaction/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05Interaction/scripts/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/05Interaction/scripts/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +63,9 @@
       <workItem from="1589911346539" duration="3472000" />
       <workItem from="1590000812230" duration="2409000" />
       <workItem from="1590082730331" duration="5635000" />
+      <workItem from="1590314288805" duration="883000" />
+      <workItem from="1590340070775" duration="1509000" />
+      <workItem from="1591782850536" duration="25000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1590082794464</created>
@@ -197,6 +202,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />

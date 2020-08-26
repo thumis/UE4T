@@ -24,19 +24,32 @@
         height="1" 
         depth="1" 
         material="src: #wood"
-        shadow 
-        animation__mouseenter="
-          property: components.material.material.color; 
-          type: color; 
-          to: blue; 
-          startEvents: mouseenter; 
-          dur: 500;"
-        animation__mouseleave="
-          property: components.material.material.color; 
-          type: color; 
-          to: red; 
-          startEvents: mouseleave; 
-          dur: 500;">  
+        shadow
+     animation__mouseenter="
+        property: rotation;
+        to: 0 45 0;
+        startEvents: mouseenter;
+        easing: linear;
+        dur: 0;"
+      animation__mouseleave="
+        property: rotation;
+        to: 0 360 0;
+         dur: 500;
+        easing: linear;
+        startEvents: mouseleave;
+        loop:true;">
+        <!--animation__mouseenter="
+        property: components.material.material.color;
+        type: color;
+        to: blue;
+        startEvents: mouseenter;
+        dur: 500;"
+      animation__mouseleave="
+        property: components.material.material.color;
+        type: color;
+        to: red;
+        startEvents: mouseleave;
+        dur: 500;">-->
       </a-box>
       <a-box id="myOtherBox" 
         position="2 1 -3" 
